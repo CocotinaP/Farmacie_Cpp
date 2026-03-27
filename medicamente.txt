@@ -1,0 +1,9 @@
+3,Augumentin,3,Europharm,Amoxicilina
+4,Cefrox,54,Fiterman Phrama,Cefuroxima
+5,Parasinus,21,Terapia,Paracetamol
+6,Tantum verde,67,Angeli,Clorhidrat de benizdamina
+7,Panadol,32,Terapia,Paracetamol
+8,Aciclovir,32,Biofarm,Aciclovir
+9,Algocalmin,25,Fiterman Pharma,Metamizol sodic monohidrat
+10,Cefort,89,Terapia,Ceftriaxona
+2,Paracetamol,12,Biofarm,Paracetamol
